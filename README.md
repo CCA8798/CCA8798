@@ -94,8 +94,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code/VS](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![JetBarins](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![CLion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
 
 ---
 
