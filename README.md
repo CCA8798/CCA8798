@@ -8,16 +8,12 @@
 
 <div align="center">
 
-# 不会起名の捌拐玖捌🍥
-
-**aka `CCA8798`**
-
-> 把脑子里的想法做成能跑起来的东西 ✨
+# CCA8798
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3800&pause=650&color=58A6FF&center=true&vCenter=true&width=760&height=80&lines=你好呀,欢迎来到我的+GitHub+主页+👋;主攻+C%2B%2B+%2F+Qt+桌面应用开发,偶尔写写+Web;用+Astro+%2F+Fuwari+维护着个人博客+📝;如果这里的项目对你有帮助,欢迎点个+Star+⭐)
 [![Blog](https://img.shields.io/badge/Blog-cca8798.com-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://www.cca8798.com)
 [![Mail](https://img.shields.io/badge/-2044187229%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2044187229@qq.com)
-[![X / Twitter](https://img.shields.io/badge/-%40CCA8798-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/CCA8798)
+[![X / Twitter](https://img.shields.io/badge/-%40CCA8798-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=black)](https://x.com/CCA8798suki)
 [![GitHub followers](https://img.shields.io/github/followers/CCA8798?style=flat-square&logo=github&label=Followers&color=2d333b)](https://github.com/CCA8798?tab=followers)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=CCA8798.cca8798&left_color=2d333b&right_color=58a6ff)](https://github.com/CCA8798)
 
