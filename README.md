@@ -49,6 +49,14 @@
   <img src="https://trophy.ryglcloud.net/?username=CCA8798&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub 奖杯" />
 </p>
 
+![3D Contrib](profile-3d-contrib/profile-night-green.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CCA8798/CCA8798/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CCA8798/CCA8798/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CCA8798/CCA8798/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- 近 31 天活动图原由 github-readme-activity-graph 托管(vercel.app 域名,国内网络不可达),已移除;待有稳定可用的国内镜像后再恢复。 -->
 
 ---
@@ -92,7 +100,7 @@
 
 ## ✍️ 最近博客
 
-> 📝 [www.cca8798.com](https://www.cca8798.com)
+> 📝 数据来源：[www.cca8798.com](https://www.cca8798.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [Claude连接OpenCode免费模型方法](https://www.cca8798.com/posts/260709_claude%E8%BF%9E%E6%8E%A5opencode%E5%85%8D%E8%B4%B9%E6%A8%A1%E5%9E%8B%E6%96%B9%E6%B3%95/)
@@ -101,14 +109,6 @@
 - [暨南大学附属第一医院就诊&amp;住院记录](https://www.cca8798.com/posts/260506_%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E5%B0%B1%E8%AF%8A%E4%BD%8F%E9%99%A2%E8%AE%B0%E5%BD%95/)
 - [用药记录——260506](https://www.cca8798.com/posts/260504_%E7%94%A8%E8%8D%AF%E8%AE%B0%E5%BD%95260506/)
 <!-- BLOG-POST-LIST:END -->
-
-![3D Contrib](profile-3d-contrib/profile-night-green.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CCA8798/CCA8798/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CCA8798/CCA8798/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CCA8798/CCA8798/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 

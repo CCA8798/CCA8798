@@ -11,8 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.cca8798.com/rss.xml"
+          max_post_count: 100   # 显示全部文章(RSS 里有多少就列多少;默认只显示 5 篇,数值可按需调整)
