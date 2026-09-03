@@ -40,21 +40,24 @@
 
 ## 📊 GitHub 统计
 
+<!-- 深色风格:以下卡片固定使用 GitHub 原生深色配色(github_dark / #0d1117)渲染,不随访客主题变化。
+     页面整体的明暗由访客自己的外观设置控制(Settings → Appearance),README 无法强制整页皮肤。 -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CCA8798&show_icons=true&theme=tokyonight&hide_border=true&card_width=390" alt="CCA8798 的 GitHub 统计" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCA8798&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=390" alt="最常用的语言" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CCA8798&show_icons=true&theme=github_dark&hide_border=true&card_width=390" alt="CCA8798 的 GitHub 统计" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCA8798&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=390" alt="最常用的语言" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CCA8798&theme=tokyonight&hide_border=true" alt="连续提交统计" />
+  <img src="https://streak-stats.demolab.com/?user=CCA8798&theme=github_dark&hide_border=true" alt="连续提交统计" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CCA8798&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub 奖杯" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CCA8798&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub 奖杯" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CCA8798&theme=tokyo-night&hide_border=true&area=true" alt="近 31 天活动图" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CCA8798&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=161b22&hide_border=true" alt="近 31 天活动图" />
 </p>
 
 > 🎯 统计卡片由 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)、[streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)、[github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)、[github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) 提供,主题、配色可按喜好调整。
@@ -104,16 +107,16 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/CCA8798/ConsoleInQt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=ConsoleInQt&theme=tokyonight&hide_border=true" alt="ConsoleInQt" /></a></td>
-    <td><a href="https://github.com/CCA8798/SimpleFrpPanel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=SimpleFrpPanel&theme=tokyonight&hide_border=true" alt="SimpleFrpPanel" /></a></td>
+    <td><a href="https://github.com/CCA8798/ConsoleInQt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=ConsoleInQt&theme=github_dark&hide_border=true" alt="ConsoleInQt" /></a></td>
+    <td><a href="https://github.com/CCA8798/SimpleFrpPanel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=SimpleFrpPanel&theme=github_dark&hide_border=true" alt="SimpleFrpPanel" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CCA8798/Simple_ID_Lottery_ElaVersion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=Simple_ID_Lottery_ElaVersion&theme=tokyonight&hide_border=true" alt="Simple_ID_Lottery_ElaVersion" /></a></td>
-    <td><a href="https://github.com/CCA8798/CCA8798_Blog_Astro_Fuwari"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=CCA8798_Blog_Astro_Fuwari&theme=tokyonight&hide_border=true" alt="CCA8798_Blog_Astro_Fuwari" /></a></td>
+    <td><a href="https://github.com/CCA8798/Simple_ID_Lottery_ElaVersion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=Simple_ID_Lottery_ElaVersion&theme=github_dark&hide_border=true" alt="Simple_ID_Lottery_ElaVersion" /></a></td>
+    <td><a href="https://github.com/CCA8798/CCA8798_Blog_Astro_Fuwari"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=CCA8798_Blog_Astro_Fuwari&theme=github_dark&hide_border=true" alt="CCA8798_Blog_Astro_Fuwari" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/CCA8798/Ocean-Protection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=Ocean-Protection&theme=tokyonight&hide_border=true" alt="Ocean-Protection" /></a></td>
-    <td><a href="https://github.com/CCA8798/Simple_ID_Lottery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=Simple_ID_Lottery&theme=tokyonight&hide_border=true" alt="Simple_ID_Lottery" /></a></td>
+    <td><a href="https://github.com/CCA8798/Ocean-Protection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=Ocean-Protection&theme=github_dark&hide_border=true" alt="Ocean-Protection" /></a></td>
+    <td><a href="https://github.com/CCA8798/Simple_ID_Lottery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CCA8798&repo=Simple_ID_Lottery&theme=github_dark&hide_border=true" alt="Simple_ID_Lottery" /></a></td>
   </tr>
 </table>
 
