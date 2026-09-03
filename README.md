@@ -133,10 +133,11 @@
 > 📝 [www.cca8798.com](https://www.cca8798.com) · 📡 [RSS 订阅](https://www.cca8798.com/rss.xml) —— 记录开发日常、Astro 组件与 AI 工具折腾(以下为 RSS 快照,配置 blog-post-workflow 后自动更新)
 
 <!-- BLOG-POST-LIST:START -->
-<!-- 手动快照:2026-07-09;下方列表可由 GitHub Actions 自动刷新,见文末「进阶玩法」 -->
-- 🔭 [Claude连接OpenCode免费模型方法](https://www.cca8798.com/posts/260709_claude%E8%BF%9E%E6%8E%A5opencode%E5%85%8D%E8%B4%B9%E6%A8%A1%E5%9E%8B%E6%96%B9%E6%B3%95/) · 2026-07-09
-- 📘 [本站Astro组件开发指南](https://www.cca8798.com/posts/260709_%E6%9C%AC%E7%AB%99astro%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/astro_component_reference/) · 2026-07-09
-- ⚙️ [ElaWidgetTools 开发指南](https://www.cca8798.com/posts/260615_elawidgettools%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/) · 2026-06-15
+- [Claude连接OpenCode免费模型方法](https://www.cca8798.com/posts/260709_claude%E8%BF%9E%E6%8E%A5opencode%E5%85%8D%E8%B4%B9%E6%A8%A1%E5%9E%8B%E6%96%B9%E6%B3%95/)
+- [本站Astro组件开发指南](https://www.cca8798.com/posts/260709_%E6%9C%AC%E7%AB%99astro%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/astro_component_reference/)
+- [ElaWidgetTools 开发指南](https://www.cca8798.com/posts/260615_elawidgettools%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/)
+- [暨南大学附属第一医院就诊&amp;住院记录](https://www.cca8798.com/posts/260506_%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E5%B0%B1%E8%AF%8A%E4%BD%8F%E9%99%A2%E8%AE%B0%E5%BD%95/)
+- [用药记录——260506](https://www.cca8798.com/posts/260504_%E7%94%A8%E8%8D%AF%E8%AE%B0%E5%BD%95260506/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
