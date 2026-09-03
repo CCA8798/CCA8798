@@ -83,7 +83,6 @@
 **🌐 Web / 前端**
 
 ![Astro](https://img.shields.io/badge/-Astro%205-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Fuwari](https://img.shields.io/badge/-Fuwari-EF4444?style=flat-square)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
