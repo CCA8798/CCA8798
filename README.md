@@ -138,6 +138,8 @@
 - [用药记录——260506](https://www.cca8798.com/posts/260504_%E7%94%A8%E8%8D%AF%E8%AE%B0%E5%BD%95260506/)
 <!-- BLOG-POST-LIST:END -->
 
+![3D Contrib](profile-3d-contrib/profile-night-green.svg)
+
 ---
 
 ## 🎨 进阶玩法:动态组件(可选,需 GitHub Actions)
@@ -215,7 +217,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -234,13 +236,16 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v7
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -249,7 +254,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated" || exit 0   # 无变化时跳过,避免报错
           git push
 ```
 
