@@ -10,7 +10,7 @@
 
 # CCA8798
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3800&pause=650&color=000000&center=true&vCenter=true&width=760&height=80&lines=你好呀,欢迎来到我的+GitHub+主页+👋;主攻+C%2B%2B+%2F+Qt+桌面应用开发,偶尔写写+Web;用+Astro+%2F+Fuwari+维护着个人博客+📝;如果这里的项目对你有帮助,欢迎点个+Star+⭐)
+![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3800&pause=650&color=58A6FF&center=true&vCenter=true&width=760&height=80&lines=你好呀,欢迎来到我的+GitHub+主页+👋;主攻+C%2B%2B+%2F+Qt+桌面应用开发,偶尔写写+Web;用+Astro+%2F+Fuwari+维护着个人博客+📝;如果这里的项目对你有帮助,欢迎点个+Star+⭐)
 [![Blog](https://img.shields.io/badge/Blog-cca8798.com-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://www.cca8798.com)
 [![Mail](https://img.shields.io/badge/-2044187229%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2044187229@qq.com)
 [![X / Twitter](https://img.shields.io/badge/-%40CCA8798suki-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=black&color=black)](https://x.com/CCA8798suki)
@@ -36,9 +36,9 @@
 <!-- 深色风格:以下卡片固定使用 GitHub 原生深色配色(github_dark / #0d1117)渲染,不随访客主题变化。
      页面整体的明暗由访客自己的外观设置控制(Settings → Appearance),README 无法强制整页皮肤。 -->
 
+<!-- 统计总览:由 .github/workflows/metrics.yml 定时生成仓库根目录的 github-metrics.svg(首次运行前此处暂为空) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CCA8798&show_icons=true&theme=github_dark&hide_border=true&card_width=390" alt="CCA8798 的 GitHub 统计" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCA8798&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=390" alt="最常用的语言" />
+  <img src="github-metrics.svg" alt="CCA8798 的 GitHub 统计" />
 </p>
 
 <p align="center">
@@ -46,13 +46,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CCA8798&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub 奖杯" />
+  <img src="https://trophy.ryglcloud.net/?username=CCA8798&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub 奖杯" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CCA8798&bg_color=0d1117&color=c9d1d9&title_color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=161b22&hide_border=true" alt="近 31 天活动图" />
-</p>
-
+<!-- 近 31 天活动图原由 github-readme-activity-graph 托管(vercel.app 域名,国内网络不可达),已移除;待有稳定可用的国内镜像后再恢复。 -->
 
 ---
 
@@ -113,12 +110,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CCA8798/CCA8798/output/github-contribution-grid-snake.svg">
 </picture>
 
-</details>
-
 ---
 
 <p align="center">
   🍥 Made with ❤️ by 不会起名の捌拐玖捌(CCA8798)<br>
   主页美化灵感来自 PeterJXL 的<a href="https://www.cnblogs.com/PeterJXL/p/18437094">《超详细的 GitHub 个人主页美化教程》</a><br>
-  统计卡片由 <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> 等开源项目驱动 · 感谢每一位来访的你 👋
+  统计图由 <a href="https://github.com/lowlighter/metrics">Metrics</a> 与 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> 等开源项目驱动 · 感谢每一位来访的你 👋
 </p>

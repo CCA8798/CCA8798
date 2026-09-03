@@ -1,0 +1,40 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *"      # 每小时自动更新
+  workflow_dispatch:         # 支持手动运行
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: CCA8798
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          # 语言占比(替代原 Top Langs 卡)
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: html, css
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: update metrics"; then
+            git push
+          fi
