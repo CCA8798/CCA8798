@@ -108,6 +108,10 @@
 - [ElaWidgetTools 开发指南](https://www.cca8798.com/posts/260615_elawidgettools%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/)
 - [暨南大学附属第一医院就诊&amp;住院记录](https://www.cca8798.com/posts/260506_%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E9%99%84%E5%B1%9E%E7%AC%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E5%B0%B1%E8%AF%8A%E4%BD%8F%E9%99%A2%E8%AE%B0%E5%BD%95/)
 - [用药记录——260506](https://www.cca8798.com/posts/260504_%E7%94%A8%E8%8D%AF%E8%AE%B0%E5%BD%95260506/)
+- [用药记录——260504](https://www.cca8798.com/posts/260504_%E7%94%A8%E8%8D%AF%E8%AE%B0%E5%BD%95260504/)
+- [躯体化记录——260504](https://www.cca8798.com/posts/260504_%E8%BA%AF%E4%BD%93%E5%8C%96%E8%AE%B0%E5%BD%95260504/)
+- [清除QQ群内鬼的相关经验](https://www.cca8798.com/posts/260426_%E6%B8%85%E9%99%A4qq%E7%BE%A4%E5%86%85%E9%AC%BC%E7%9A%84%E7%9B%B8%E5%85%B3%E7%BB%8F%E9%AA%8C/)
+- [泥嚎！欢迎来到本站](https://www.cca8798.com/posts/260426_%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%9C%AC%E7%AB%99/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
