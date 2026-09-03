@@ -8,14 +8,13 @@
 
 <div align="center">
 
-# 🍥 不会起名の捌拐玖捌
+# 不会起名の捌拐玖捌🍥
 
-**aka 捌拐玖捌 · `CCA8798`**
+**aka `CCA8798`**
 
-> 一个起名困难的学生开发者,喜欢把脑子里的想法做成能跑起来的东西 ✨
+> 把脑子里的想法做成能跑起来的东西 ✨
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3800&pause=650&color=58A6FF&center=true&vCenter=true&width=760&height=80&lines=你好呀,欢迎来到我的+GitHub+主页+👋;主攻+C%2B%2B+%2F+Qt+桌面应用开发,偶尔写写+Web;用+Astro+%2F+Fuwari+维护着个人博客+📝;研究过+frp+内网穿透、流量统计与抽奖小玩具;如果这里的项目对你有帮助,欢迎点个+Star+⭐)
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?duration=3800&pause=650&color=58A6FF&center=true&vCenter=true&width=760&height=80&lines=你好呀,欢迎来到我的+GitHub+主页+👋;主攻+C%2B%2B+%2F+Qt+桌面应用开发,偶尔写写+Web;用+Astro+%2F+Fuwari+维护着个人博客+📝;如果这里的项目对你有帮助,欢迎点个+Star+⭐)
 [![Blog](https://img.shields.io/badge/Blog-cca8798.com-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://www.cca8798.com)
 [![Mail](https://img.shields.io/badge/-2044187229%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2044187229@qq.com)
 [![X / Twitter](https://img.shields.io/badge/-%40CCA8798-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/CCA8798)
@@ -28,13 +27,11 @@
 
 ## 👋 关于我
 
-- 📍 坐标:广东 · 顺德,2022 年底加入 GitHub,陆陆续续攒了 **6 个公开仓库**
-- 💻 主力 **C++ / Qt**(Qt 5.14.2 ~ Qt 6.7),深度使用者 [ElaWidgetTools](https://github.com/Liniyous/ElaWidgetTools)(Win11 FluentUI 风格组件库),构建工具 CMake
+- 📍 坐标:广东 · 顺德 2022 年底加入 GitHub
+- 💻 主力 **C++ / Qt**(Qt 5.14.2 ~ Qt 6.7)
 - 🌐 也折腾 **Web**:基于 [Astro 5](https://astro.build) + [Fuwari](https://github.com/saicaca/fuwari) 自建博客,混合 Svelte / Tailwind / Express
-- 🔌 研究过 **frp 内网穿透** 的可视化管理、端口配额、流量统计;写过 Qt 控制台组件库、抽奖工具等桌面玩具
-- 🌊 做过海洋保护科普网站(文章 + 数据图表 + 小游戏)—— 初二年级的赛博作业 😄
-- 📝 博客:**<https://www.cca8798.com>**(捌拐玖捌的家),自述文件下方有文章同步区
-- 📫 邮箱 **2044187229@qq.com**,欢迎交流技术、提 Issue、唠嗑
+- 📝 博客:**<https://www.cca8798.com>**
+- 📫 邮箱 **2044187229@qq.com**
 
 ---
 
