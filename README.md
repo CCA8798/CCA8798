@@ -70,17 +70,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-**🖥️ 桌面开发(主战场)**
+**🖥️ 桌面开发最爱工具(主战场)**
 
 ![Qt](https://img.shields.io/badge/-Qt%205%20%2F%206-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![ElaWidgetTools](https://img.shields.io/badge/-ElaWidgetTools-7C5CFF?style=flat-square)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![frp](https://img.shields.io/badge/-frp-38BDF8?style=flat-square&logo=fastly&logoColor=white)
-![CLion](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
 
 **🌐 Web / 前端**
 
@@ -96,7 +94,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code/VS](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![JetBarins](https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=clion&logoColor=white)
 
 ---
 
