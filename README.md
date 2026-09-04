@@ -118,6 +118,5 @@
 
 <p align="center">
   🍥 Made with ❤️ by 不会起名の捌拐玖捌(CCA8798)<br>
-  主页美化灵感来自 PeterJXL 的<a href="https://www.cnblogs.com/PeterJXL/p/18437094">《超详细的 GitHub 个人主页美化教程》</a><br>
   统计图由 <a href="https://github.com/lowlighter/metrics">Metrics</a> 与 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a> 等开源项目驱动 · 感谢每一位来访的你 👋
 </p>
