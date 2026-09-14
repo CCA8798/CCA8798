@@ -73,6 +73,7 @@
 > 📝 数据来源：[www.cca8798.com](https://www.cca8798.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [ZGGG拍机记录](https://www.cca8798.com/posts/260914_zggg%E6%8B%8D%E6%9C%BA%E8%AE%B0%E5%BD%95/)
 - [Claude连接OpenCode免费模型方法](https://www.cca8798.com/posts/260709_claude%E8%BF%9E%E6%8E%A5opencode%E5%85%8D%E8%B4%B9%E6%A8%A1%E5%9E%8B%E6%96%B9%E6%B3%95/)
 - [本站Astro组件开发指南](https://www.cca8798.com/posts/260709_%E6%9C%AC%E7%AB%99astro%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/astro_component_reference/)
 - [ElaWidgetTools 开发指南](https://www.cca8798.com/posts/260615_elawidgettools%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/)
